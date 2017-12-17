@@ -1,5 +1,5 @@
 #!/bin/sh
 echo "********************************************************"
-echo "Starting License Server"
+echo "Starting Destination Service"
 echo "********************************************************"
-java -jar /usr/local/licensingservice/licensing-service-0.0.1-SNAPSHOT.jar
+java -jar /usr/local/destinationservice/destination-service-0.0.1-SNAPSHOT.jar
